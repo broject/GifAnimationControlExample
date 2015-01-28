@@ -1,0 +1,7 @@
+c:\users\boroo\documents\visual studio 2012\Projects\GifAnimationControlExample\GifAnimationControlExample\bin\Debug\GifAnimationControlExample.exe
+c:\users\boroo\documents\visual studio 2012\Projects\GifAnimationControlExample\GifAnimationControlExample\bin\Debug\GifAnimationControlExample.pdb
+c:\users\boroo\documents\visual studio 2012\Projects\GifAnimationControlExample\GifAnimationControlExample\obj\Debug\GifAnimationControlExample.Form1.resources
+c:\users\boroo\documents\visual studio 2012\Projects\GifAnimationControlExample\GifAnimationControlExample\obj\Debug\GifAnimationControlExample.Properties.Resources.resources
+c:\users\boroo\documents\visual studio 2012\Projects\GifAnimationControlExample\GifAnimationControlExample\obj\Debug\GifAnimationControlExample.csproj.GenerateResource.Cache
+c:\users\boroo\documents\visual studio 2012\Projects\GifAnimationControlExample\GifAnimationControlExample\obj\Debug\GifAnimationControlExample.exe
+c:\users\boroo\documents\visual studio 2012\Projects\GifAnimationControlExample\GifAnimationControlExample\obj\Debug\GifAnimationControlExample.pdb
